@@ -1,3 +1,5 @@
+package exercicios.usandoBlocoDeNotas;
+
 public class PrimeiroProgama{
 	public static void main(String[] args){
 

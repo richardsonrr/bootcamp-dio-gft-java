@@ -1,3 +1,5 @@
+package exercicios.metodosCalculadora;
+
 public class Calculadora {
 
 
