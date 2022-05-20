@@ -13,7 +13,11 @@ public class ExerciciosPropostoList2 {
     Se a pessoa responder positivamente a 2 questões ela deve ser considerada "suspeita",
     entre 3 e 4 como Cúmplice e 5 como assassina, caso contrario sera classificada como
     inocente.
-
    */
+
+
+
+
+
 
 }
