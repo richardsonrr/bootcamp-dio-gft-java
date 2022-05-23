@@ -1,0 +1,53 @@
+
+Aqui temos uma descrição de cada desafio e seus requisitos.
+-----------------------------------------------------------------------------------------------------------------------------
+1 COXINHA DE BUENO
+
+Descrição:
+
+Em 2015 um novo record foi alcançado na competição de Coxinhas de Bueno de Andrada, onde Mônica mandou
+pra dentro 43 coxinhas em apenas 10 minutos, passando se antecessor que conseguiu comer, no mesmo tempo,
+38 coxinhas em 2014. O restaurante especializado em coxinhas do pequeno distrito de Bueno de Andrada,
+interior de São Paulo,organiza essa competição todos os anos, mas nunca conseguiram entrar para o livro
+dos recordes, o Guinness Book. Para isso, o restaurante precisa preencher informações sobre a competição,
+como onúmero de coxinhas consumidas pelos competidores durante o evento.
+
+Porém, como jó foi informado, a especialidade deles é coxinha, não matemática, então será que você pode ajudá-los?
+Com base no número total de coxinhas consumidas e o número de participantes na competição, o dono do restaurante
+precisa que você desenvolva um programa para saber a quantidade média de coxinha que os participantes da competição
+conseguem devorar.
+
+Ah, lembre que, em troca da sua ajuda, você poderá comer quantas coxinhas conseguir.
+
+Entrada:
+
+A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H, P ≤ 1000) indicando respectivamente o número
+ total de coxinhas consumidas e o número total de participantes na competição.
+
+Saída:
+
+Seu programa deve produzir uma única linha com um número racional representando o número médio de coxinhas consumidas pelos
+participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal,
+arredondado se necessário.
+-----------------------------------------------------------------------------------------------------------------------------
+
+2. DEGUSTAÇÃO DE VINHO
+
+Degustação de vinho às escuras é a habilidade de identificar um vinho usando apenas seus sentidos do olfato e paladar.
+Durante uma competição de degustação, uma garrafa de vinho é aberta e dividia em taças para que os cinco competidores possam provar.
+Eles podem cheiras, saborear e avaliar a bebida para conseguir identificar qual o tipo do vinho, sendo: (1) Cabernet; (2) Merlot; (3) Pinot Noir.
+No final, as respostas são verificadas para determinar o número de suposições corretas.
+
+Dado o qual foi o tipo do vinho e as respostas fornecidas, determine o número de participantes que receberam a resposta correta.
+
+Entrada:
+
+A primeira linha contém um inteiro T representando o tipo de vinho (1 ≤ T ≤ 4). A segunda linha contém cinco inteiros A, B, C, D e E,
+ que indica a resposta dada por cada competidor (1 ≤ A, B, C, D, E ≤ 4).
+
+Saída:
+
+A saída contém um inteiro representando o número de concorrentes que obtiveram a resposta correta.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
