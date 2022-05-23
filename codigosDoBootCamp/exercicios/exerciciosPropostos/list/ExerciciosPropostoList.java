@@ -24,7 +24,6 @@ public class ExerciciosPropostoList {
     public static void chamaMetodos() {
         gravarMeses();
         listarTemperaturaPorMes();
-
         media();
 
     }
